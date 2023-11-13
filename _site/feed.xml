@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-11-13T23:54:22+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">SAML 2024</title><subtitle>Official website for the 3rd Workshop on Software Architecture and Machine Learning</subtitle><author><name>Karthik Vaidhyanathan</name></author><entry><title type="html">Main Conference Reviewing Process</title><link href="http://localhost:4000/blog/EMNLP-2023-openreview/" rel="alternate" type="text/html" title="Main Conference Reviewing Process" /><published>2023-05-17T00:00:00+05:30</published><updated>2023-05-17T00:00:00+05:30</updated><id>http://localhost:4000/blog/EMNLP-2023-openreview</id><content type="html" xml:base="http://localhost:4000/blog/EMNLP-2023-openreview/"><![CDATA[<p>For EMNLP 2023, some of the reviews, author responses and meta reviews will be made publicly available.
+Our motivation is to provide increased transparency in the review process, to foster more accountability for reviewers
+and higher quality reviews as well as enabling peer review research by providing an open collection of papers and reviews.
+We will follow a process where only reviews, author responses and meta reviews of accepted papers and opt-in rejected papers will
+be made publicly available after the acceptance notifications.
+We will use the OpenReview platform, which is also currently used by the ACL Rolling Review as well as other
+related conferences and is well suited to this type of process.</p>
+
+<p>FAQs:</p>
+<ul>
+  <li>Q: Is the proposed process compatible with the ACL anonymity policy?
+    <ul>
+      <li>A: The proposed process is not in conflict with the <a href="https://www.aclweb.org/adminwiki/index.php?title=ACL_Policies_for_Submission,_Review_and_Citation">anonymity policy</a>.
+In addition, reviews and responses will be made publicly available and papers de-anonymized only after acceptance notifications.</li>
+    </ul>
+  </li>
+  <li>Q: Why is there a distinction between accepted and rejected papers?
+    <ul>
+      <li>A: This is an experiment for EMNLP 2023 and we adopt a conservative approach, including releasing reviews and responses only after acceptance notifications. Moreover, we expect that many authors of rejected papers would not like to see their deanonymized paper along with reviews publicly available.</li>
+    </ul>
+  </li>
+</ul>]]></content><author><name>Program Chairs</name></author><category term="blog" /><category term="announcement" /><category term="publicity" /><summary type="html"><![CDATA[For EMNLP 2023, some of the reviews, author responses and meta reviews will be made publicly available. Our motivation is to provide increased transparency in the review process, to foster more accountability for reviewers and higher quality reviews as well as enabling peer review research by providing an open collection of papers and reviews. We will follow a process where only reviews, author responses and meta reviews of accepted papers and opt-in rejected papers will be made publicly available after the acceptance notifications. We will use the OpenReview platform, which is also currently used by the ACL Rolling Review as well as other related conferences and is well suited to this type of process.]]></summary></entry><entry><title type="html">Emnlp 2023 Theme</title><link href="http://localhost:4000/EMNLP-2023-theme/" rel="alternate" type="text/html" title="Emnlp 2023 Theme" /><published>2023-05-16T00:00:00+05:30</published><updated>2023-05-16T00:00:00+05:30</updated><id>http://localhost:4000/EMNLP-2023-theme</id><content type="html" xml:base="http://localhost:4000/EMNLP-2023-theme/"><![CDATA[<h1 id="emnlp-2023-theme-track-large-language-models-and-the-future-of-nlp">EMNLP 2023 Theme Track: “Large Language Models and the Future of NLP”</h1>
+
+<p>Following the success of prior conference Theme Tracks, we are happy to announce that EMNLP 2023 will have a new theme with the goal of stimulating discussion around Large Language Models and the Future of NLP.</p>
+
+<p>While the new generation of Large Language Models such as GPTX, LLAMA, BLOOM, etc., claim to perform at unprecedented levels for generation and understanding, we are in unexplored territory on many aspects of such LLMs, including performance on various NLP tasks and languages, data sovereignty, fairness, interpretability, ethics, transparency, NLP applications, etc.</p>
+
+<p>The theme track invites empirical and theoretical research, as well as position and survey papers on the ways in which such LLMs perform on NLP tasks and applications, and what this means for the future of NLP as a field. The possible topics of discussion include (but are not limited to) the following:</p>
+
+<ul>
+  <li>How reliably do the current generation of LLMs perform on NLP tasks and applications?</li>
+  <li>How is linguistic diversity covered by these LLMs?</li>
+  <li>What are the different systemic failures of such LLMs and recovery strategies and methodologies?</li>
+  <li>Do these models enhance scientific understanding (of language, cognition, or deep learning technology)? In what ways?</li>
+  <li>What are the different ethical and FATE-related considerations regarding the design and use of such models?</li>
+  <li>What are the opportunities LLMs offer to NLP research ?</li>
+  <li>How do LLMs capture world knowledge?</li>
+  <li>How can we incorporate existing knowledge bases effectively into LLMs?</li>
+  <li>How can we evaluate the performance of such models intrinsically (with no downstream application involved)</li>
+  <li>How can such models influence how NLP research is done in the future?</li>
+  <li>How replicable is the performance of these models in both NLP research and real-life applications?</li>
+</ul>
+
+<p>The theme track submissions can be either long or short. We anticipate having a special session on this theme at the conference and a Thematic Paper Award in addition to other categories of awards.</p>]]></content><author><name>Karthik Vaidhyanathan</name></author><summary type="html"><![CDATA[EMNLP 2023 Theme Track: “Large Language Models and the Future of NLP”]]></summary></entry><entry><title type="html">EMNLP 2023 Blog</title><link href="http://localhost:4000/blog/EMNLP-2023-blog/" rel="alternate" type="text/html" title="EMNLP 2023 Blog" /><published>2023-03-15T00:00:00+05:30</published><updated>2023-03-15T00:00:00+05:30</updated><id>http://localhost:4000/blog/EMNLP-2023-blog</id><content type="html" xml:base="http://localhost:4000/blog/EMNLP-2023-blog/"><![CDATA[<p>EMNLP 2023 will take place in Singapore from Dec 6th to Dec 10th, 2023.</p>
+
+<p>Following previous conferences, the EMNLP 2023 website will now include a blog with posts from various conference chairs. New blog posts will be announced on the website and on social media.</p>]]></content><author><name>Website Chairs</name><email>eleyanz@nus.edu.sg</email></author><category term="blog" /><category term="announcement" /><category term="publicity" /><summary type="html"><![CDATA[EMNLP 2023 will take place in Singapore from Dec 6th to Dec 10th, 2023.]]></summary></entry></feed>
