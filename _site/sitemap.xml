@@ -13,9 +13,6 @@
 <lastmod>2023-05-17T00:00:00+05:30</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/calls/System_Demonstrations/</loc>
-</url>
-<url>
 <loc>http://localhost:4000/reviewer/advice/</loc>
 </url>
 <url>
@@ -46,10 +43,10 @@
 <loc>http://localhost:4000/registration/discounted_virtual_registration/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/faq/</loc>
+<loc>http://localhost:4000/ethics/faq/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/ethics/faq/</loc>
+<loc>http://localhost:4000/faq/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
@@ -79,7 +76,7 @@
 <loc>http://localhost:4000/sponsors/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/calls/subsidies/</loc>
+<loc>http://localhost:4000/calls/submissions</loc>
 </url>
 <url>
 <loc>http://localhost:4000/tags/</loc>
@@ -95,14 +92,6 @@
 </url>
 <url>
 <loc>http://localhost:4000/volunteers</loc>
-</url>
-<url>
-<loc>http://localhost:4000/assets/images/logos/Sponsorship_Brochure-ACL2023-20230505.pdf</loc>
-<lastmod>2023-11-13T19:08:28+05:30</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/assets/images/venue.pdf</loc>
-<lastmod>2023-11-13T19:08:29+05:30</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/conference-program/demo/</loc>

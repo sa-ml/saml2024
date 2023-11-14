@@ -21,8 +21,8 @@ SAML 2024 will be co-located with the 21st IEEE International Conference on Soft
 .news-table { font-size: .9em; table-layout: fixed; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
-| 2023-11-13 | [Call for Papers](/calls/submissions/) is posted.
-| 2023-11-13 | The official SAML 2024 website is launched.
+| 2023-11-14 | [Call for Papers](/saml2024/calls/submissions/) is posted.
+| 2023-11-14 | The official SAML 2024 website is launched.
 {: .news-table}
 
 [//]: <> ## BLOG POSTS 
