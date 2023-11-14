@@ -17,7 +17,7 @@ main:
     url: /
 
   - title: "Calls"
-    url: /calls/subsidies/
+    url: /calls/submissions/
   
   - title: "Venue"
     url: /venue
