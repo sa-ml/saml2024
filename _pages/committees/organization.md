@@ -11,7 +11,7 @@ sidebar:
 {% include committee-member.html
    name="Justus Bogner"
    site=""
-   picture="/assets/images/committee/justus_bogner.jpeg"
+   picture="/saml2024/assets/images/committee/justus_bogner.jpeg"
    institution="Vrije Universiteit Amsterdam, The Netherlands"
    email = "j.bogner@vu.nl"
 %}
@@ -19,14 +19,14 @@ sidebar:
 {% include committee-member.html
    name="Henry Muccini"
    site="https://henrymuccini.com"
-   picture="/assets/images/committee/henry_muccini.jpeg"
+   picture="/saml2024/assets/images/committee/henry_muccini.jpeg"
    institution="University of L'Aquila, Italy"
    email = "henry.muccini@univaq.it"
 %}
 
 {% include committee-member.html
    name="Marie Platenius-Mohr"
-   picture="/assets/images/committee/marie.jpg"
+   picture="/saml2024/assets/images/committee/marie.jpg"
    site="https://research.facebook.com/people/pino-juan/"
    institution="ABB AG Corporate Research Center, Germany"
    email = "marie.platenius-mohr@de.abb.com"
@@ -34,7 +34,7 @@ sidebar:
 
 {% include committee-member.html
    name="Karthik Vaidhyanathan"
-   picture="/assets/images/committee/karthik.jpeg"
+   picture="/saml2024/assets/images/committee/karthik.jpeg"
    site="https://karthikvaidhyanathan.com"
    institution="IIIT Hyderabad, India"
    email = "karthik.vaidhyanathan@iiit.ac.in"
