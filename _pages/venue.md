@@ -9,8 +9,8 @@ header:
   overlay_image: "/assets/images/hyderabad/hyderabad_2.png"
   overlay_filter: 0.4
   actions:
-    - label: "Submit"
-      url: "https://github.com"
+    - label: "Know more"
+      url: "https://sa-ml.github.io/saml2024/"
   # caption: 'Photo from <a href="https://drive.google.com/drive/u/0/folders/10XXSEjTNDmrwU0tqL58la1n3YlE-g4V8">EMNLP 2023 Website Image.png</a> '
 excerpt: "June 4-5 2024, Hyderabad, India"
 ---
