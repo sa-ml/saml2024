@@ -10,7 +10,7 @@ sidebar:
 
 {% include committee-member.html
    name="Justus Bogner"
-   site=""
+   site="https://xjreb.github.io"
    picture="/saml2024/assets/images/committee/justus_bogner.jpeg"
    institution="Vrije Universiteit Amsterdam, The Netherlands"
    email = "j.bogner@vu.nl"
@@ -27,7 +27,7 @@ sidebar:
 {% include committee-member.html
    name="Marie Platenius-Mohr"
    picture="/saml2024/assets/images/committee/marie.jpg"
-   site="https://research.facebook.com/people/pino-juan/"
+   site="http://www.platenius.de/Marie/"
    institution="ABB AG Corporate Research Center, Germany"
    email = "marie.platenius-mohr@de.abb.com"
 %}
