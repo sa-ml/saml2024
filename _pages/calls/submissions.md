@@ -51,21 +51,24 @@ The increasing usage of machine learning (ML) coupled with the software architec
 
 + **Position papers** with expressed interest, 1 page
 
-Submissions must follow the [IEEE Computer Science proceedings format](https://www.ieee.org/conferences/publishing/templates.html). Contributions should be submitted before the submission deadline using the online submission site: EasyChair All submissions must be original work and must not have been previously published, nor be under consideration for publication elsewhere.
-
+All Contributions should be submitted before the submission deadline using the [online submission site](https://easychair.org/conferences/?conf=icsa2024).Submissions must follow the [IEEE Computer Science proceedings format](https://www.ieee.org/conferences/publishing/templates.html) and abide by **single blind** submission process.  All submissions must be original work and must not have been previously published, nor be under consideration for publication elsewhere. Artifacts related to the contributions, if any, can be submitted by uploading the data/code to repositories such as [Zenodo](https://zenodo.org/) or [Figshare](https://figshare.com/). Additionally, include the links to these contributions for reference.
 
 ## Proceedings
 
-The accepted regular and short papers will be published in ICSA 2024 Companion proceedings, and appear in IEEE Xplore Digital Library. The position papers will be published in the SAML 2024 web page. At least one author of each accepted paper should register for the conference and participate in the workshop.
+The accepted regular and short papers will be published in _ICSA 2024 Companion proceedings_, and appear in _IEEE Xplore Digital Library_. The position papers will be published in the SAML 2024 web page. At least one author of each accepted paper should register for the conference and participate in the workshop.
 
 
 ## Submission Deadlines 
 
-<b>All deadlines are 11.59 pm <a target="_blank" href="https://www.timeanddate.com/time/zone/timezone/utc-12">UTC -12h</a> ("anywhere on Earth").</b>
+<b>All deadlines are 11.59 pm <a target="_blank" href="https://www.timeanddate.com/time/zone/timezone/utc-12">UTC -12h</a> ("Anywhere on Earth").</b>
 
 **Paper Deadline:** February 18, 2024
 
-Notification of acceptance: TBA
+**Notification of acceptance:** March 17, 2024
+
+**Camera ready due:** March 31, 2024
+
+**Workshop dates:** June 4-5, 2024
 
 
 
