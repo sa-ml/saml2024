@@ -36,8 +36,8 @@ SAML 2024 will be co-located with the 21st IEEE International Conference on Soft
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
 | **Paper Submission** | Feb 18, 2024
-| **Notification of acceptance** | TBA
-| **Camera-ready** | TBA
+| **Notification of acceptance** | Mar 17, 2024
+| **Camera-ready** | Mar 31, 2024
 | **Workshop** | June 4 or 5, 2024
 
 {: .news-table}
