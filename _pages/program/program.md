@@ -1,7 +1,6 @@
 ---
 title: Workshop Overview
 layout: single
-excerpt: "SAML 2024 Workshop Program."
 permalink: /program/
 toc: false
 sidebar:

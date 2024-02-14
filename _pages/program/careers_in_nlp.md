@@ -1,7 +1,6 @@
 ---
 title: Careers in NLP
 layout: single
-excerpt: "EMNLP 2022 NLP CAREERS."
 permalink: /program/careers_in_nlp/
 toc: false
 sidebar: 

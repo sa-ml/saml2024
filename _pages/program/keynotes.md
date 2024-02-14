@@ -1,7 +1,6 @@
 ---
 title: Keynote 
 layout: single
-excerpt: "SAML2024 Keynote Speaker."
 permalink: /program/keynotes/
 toc: true
 toc_sticky: true

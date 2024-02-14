@@ -14,7 +14,6 @@ header:
     - label: "Know more"
       url: "https://sa-ml.github.io/saml2024/"
   # caption: 'Photo from <a href="https://drive.google.com/drive/u/0/folders/10XXSEjTNDmrwU0tqL58la1n3YlE-g4V8">EMNLP 2023 Website Image.png</a> '
-excerpt: "June 4-5 2024, Hyderabad, India"
 ---
 
 
