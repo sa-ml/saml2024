@@ -1,7 +1,7 @@
 ---
-title: Main Conference Keynotes 
+title: Keynote 
 layout: single
-excerpt: "EMNLP 2023 Keynote Speakers."
+excerpt: "SAML2024 Keynote Speaker."
 permalink: /program/keynotes/
 toc: true
 toc_sticky: true
@@ -9,8 +9,6 @@ toc_icon: "cog"
 sidebar: 
     nav: program
 ---
-
-We are delighted to announce that the esteemed speakers listed below have graciously accepted our invitation to deliver keynote speeches at the main conference of EMNLP 2023:
 
 <style>
 p.speaker-bio { font-style: italic; font-size: 80%; }
@@ -28,20 +26,27 @@ of a pretrained language model that "understands" the task description, especial
 
 In the last part of the talk, I will show how bias in NLP models can be addressed using task descriptions. Instructing a model to reveal and reduce its biases is remarkably effective and may contribute in the future to a fairer and more inclusive NLP. -->
 
-## Speaker: Christopher D. Manning 
-
-![Mona Diab](/assets/images/keynotes/Christopher_Manning.jpg){: .align-center}
-
-### Academic NLP research in the Age of LLMs: Nothing but blue skies!
+## Software Architecture Challenges for LLM-based Control Code Generation
 
 
-Christopher Manning is the inaugural Thomas M. Siebel Professor in Machine Learning in the Departments of Linguistics and Computer Science at Stanford University, Director of the Stanford Artificial Intelligence Laboratory (SAIL), and an Associate Director of the Stanford Institute for Human-Centered Artificial Intelligence (HAI). His research goal is computers that can intelligently process, understand, and generate human languages. Manning was an early leader in applying Deep Learning to Natural Language Processing (NLP), with well-known research on the GloVe model of word vectors, attention, machine translation, question answering, self-supervised model pre-training, tree-recursive neural networks, machine reasoning, dependency parsing, sentiment analysis, and summarization. He also focuses on computational linguistic approaches to parsing, natural language inference and multilingual language processing, including being a principal developer of Stanford Dependencies and Universal Dependencies. Manning has coauthored leading textbooks on statistical approaches to NLP (Manning and Schütze 1999) and information retrieval (Manning, Raghavan, and Schütze, 2008), as well as linguistic monographs on ergativity and complex predicates. His online CS224N Natural Language Processing with Deep Learning videos have been watched by hundreds of thousands of people. He is an ACM Fellow, a AAAI Fellow, and an ACL Fellow, and a Past President of the ACL (2015). His research has won ACL, Coling, EMNLP, and CHI Best Paper Awards, and an ACL Test of Time Award. He has a B.A. (Hons) from The Australian National University and a Ph.D. from Stanford in 1994, and an Honorary Doctorate from U. Amsterdam in 2023, and he held faculty positions at Carnegie Mellon University and the University of Sydney before returning to Stanford. He is the founder of the Stanford NLP group (@stanfordnlp) and manages development of the Stanford CoreNLP and Stanza software.
+### Speaker: Dr.-Ing. Heiko Koziolek, Corporate Research Fellow, ABB Corporate Research, Germany 
+
+![Heiko Koziolek](/assets/images/keynotes/heiko_koziolek.jpg){: .align-center}
+
+
+#### Abstract
+Generative AI now aids many software developers in programming tasks, often providing a significant productivity boost. 
+In the manufacturing domain, control logic code is designed and implemented for industrial automation applications that manage power plants, petrochemical processes, or steel production. 
+Popular large language models (LLM) can also synthesize low-level control code in programming notations according to the IEC 61131-3 standard programming notation used in industry, even without any custom fine-tuning. 
+Integrating LLM-based control code generation into existing industrial programming environments however imposes several software architecture challenges. 
+These include selecting appropriate technologies for integrating proprietary information, designing streamlined APIs to feed LLM output into programming environments, and processing large amounts of sophisticated requirements document in batch runs. 
+This talk summarizes experiences and lessons learned while combining Generative AI and industrial programming from the perspective of a software architect.
+
 {: .speaker-bio}
 
-Affiliation: Stanford University
 {: .speaker-bio}
 
-## Speaker: Emily Mower Provost
+<!--## Speaker: Emily Mower Provost
 
 ![Neil Cohn](/assets/images/keynotes/Emily_Provost.jpg){: .align-center}
 
@@ -69,7 +74,7 @@ Jong Park received his BE and MSE degrees from Seoul National University and PhD
 Affiliation: Korea Advanced Institute of Science and Technology (KAIST)
 {: .speaker-bio}
 
-<!--## Dhruv Batra
+## Dhruv Batra
 
 ![Dhruv Batra](/assets/images/keynotes/Dhruv_Batra.jpg){: .align-center}
 
