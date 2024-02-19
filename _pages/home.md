@@ -20,6 +20,7 @@ SAML 2024 will be co-located with the 21st IEEE International Conference on Soft
 .news-table { font-size: .9em; table-layout: fixed; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
+| 2024-02-19 | 	We have extended the submission deadline until **February 25, AoE**.
 | 2024-02-13 | 	The submission deadline is on **February 18**, but we offer a grace period which allows you to polish your papers until **February 20, AoE**.
 | 2024-02-09 | We are delighted to announce that Heiko Koziolek from ABB Corporate Research will give a keynote. More information can be found on the Workshop Program page.
 | 2023-11-14 | [Call for Papers](/saml2024/calls/submissions) is posted.
