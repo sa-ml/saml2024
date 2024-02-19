@@ -3,9 +3,6 @@
 main:
   # - title: "Proceedings"
   #   url: "https://aclanthology.org/events/emnlp-2022/"
-    
-  #- title: "Program"
-  #  url: /program/
 
   #- title: "Registration"
   #  url: /registration/
@@ -18,6 +15,9 @@ main:
 
   - title: "Call for Papers"
     url: /calls/submissions
+
+  - title: "Program"
+    url: /program/
   
   - title: "Venue"
     url: /venue
@@ -51,14 +51,14 @@ main:
 program:
   - title: Program Details
     children:
-#       - title: "Conference Program"
-#         url: /program/
-      - title: "Keynotes"
+      - title: "Workshop Program"
+        url: /program/
+      - title: "Keynote"
         url: /program/keynotes/
-      - title: "Workshops"
-        url: /program/workshops/
-      - title: "Tutorials"
-        url: /program/tutorials/
+#      - title: "Workshops"
+#        url: /program/workshops/
+#      - title: "Tutorials"
+#        url: /program/tutorials/
 #       - title: "Careers in NLP"
 #         url: /program/careers_in_nlp/
 #      - title: "Social Programs"
@@ -91,8 +91,8 @@ program:
 #        url: /calls/style-and-formatting/
 #       - title: "Volunteers"
 #         url: /calls/volunteers/
-      - title: "Workshops"
-        url: /program/workshops/
+#      - title: "Workshops"
+#        url: /program/workshops/
   
   #- title: Submission Material
   #  children:

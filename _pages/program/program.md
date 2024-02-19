@@ -1,7 +1,6 @@
 ---
-title: Conference Overview
+title: Workshop Overview
 layout: single
-excerpt: "EMNLP 2023 Conference Program."
 permalink: /program/
 toc: false
 sidebar:
@@ -17,6 +16,10 @@ sidebar:
 .news-table { font-size: .9em; table-layout: fixed; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 9em; }
 </style>
+
+The workshop program includes paper presentations, a panel with with participants from academia and industry, and a [keynote](/program/keynotes). More details will be announced, soon.
+
+<!--
 
 |:---|:---|
 | Tutorials | December 6, 2023 <br> 09:00 – 17:30 <br> 2 Coffee Breaks Pastries will be offered <br> Lunch and Dinner on your own
@@ -121,3 +124,4 @@ sidebar:
 
 * **Registration: Central Foyer**
 {: .notes}
+-->

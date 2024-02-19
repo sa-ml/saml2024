@@ -1,7 +1,6 @@
 ---
 title: Organizing Committee
 layout: single
-excerpt: "SAML 2024 organizing committee."
 permalink: /organization/
 sidebar: 
     nav: "committees"

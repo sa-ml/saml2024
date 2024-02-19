@@ -1,7 +1,6 @@
 ---
 title: Accepted Papers
 layout: single
-excerpt: "NAACL 2021 Accepted Papers."
 permalink: /program/accepted/
 toc: true
 toc_sticky: true
