@@ -62,7 +62,7 @@ The accepted regular and short papers will be published in _ICSA 2024 Companion 
 
 <b>All deadlines are 11.59 pm <a target="_blank" href="https://www.timeanddate.com/time/zone/timezone/utc-12">UTC -12h</a> ("Anywhere on Earth").</b>
 
-**Paper Deadline:** February 18, 2024
+**Paper Deadline:** February 25, 2024
 
 **Notification of acceptance:** March 17, 2024
 
