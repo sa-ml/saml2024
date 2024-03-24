@@ -51,6 +51,8 @@ main:
 program:
   - title: Program Details
     children:
+      - title: "Accepted Papers"
+        url: /program/accepted/
       - title: "Workshop Program"
         url: /program/
       - title: "Keynote"
