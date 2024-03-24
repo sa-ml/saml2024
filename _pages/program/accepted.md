@@ -2,9 +2,9 @@
 title: Accepted Papers
 layout: single
 permalink: /program/accepted/
-toc: true
-toc_sticky: true
-toc_icon: "cog"
+#toc: true
+#toc_sticky: true
+#toc_icon: "cog"
 sidebar:
     nav: program
 ---
