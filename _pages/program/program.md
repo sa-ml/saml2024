@@ -17,7 +17,7 @@ sidebar:
 .news-table tr td:nth-child(1) { font-weight: bold; width: 9em; }
 </style>
 
-The workshop program includes paper presentations, a panel with with participants from academia and industry, and a [keynote](/program/keynotes). More details will be announced, soon.
+The workshop program will include paper presentations, a panel with with participants from academia and industry, and a [keynote](/program/keynotes). More details will be announced, soon.
 
 <!--
 

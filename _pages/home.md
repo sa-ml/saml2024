@@ -6,8 +6,8 @@ header:
   overlay_image: "/assets/images/hyderabad/hyderabad_saml_1.png"
   overlay_filter: 0.4
   actions:
-    - label: "Know More"
-      url: "https://sa-ml.github.io/saml2024/calls/submissions"
+    - label: "Register here"
+      url: "https://conf.researchr.org/attending/icsa-2024/registration"
   # caption: 'Photo from <a href="https://drive.google.com/drive/u/0/folders/10XXSEjTNDmrwU0tqL58la1n3YlE-g4V8">EMNLP 2023 Website Image.png</a> '
 ---
 
@@ -20,6 +20,8 @@ SAML 2024 will be co-located with the 21st IEEE International Conference on Soft
 .news-table { font-size: .9em; table-layout: fixed; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
+| 2024-03-20 | Registration site is up. Do [register here](https://conf.researchr.org/attending/icsa-2024/registration)
+| 2024-03-20 | The list of accepted papers is ready and an exciting program coming soon!
 | 2024-02-19 | 	We have extended the submission deadline until **February 25, AoE**.
 | 2024-02-13 | 	The submission deadline is on **February 18**, but we offer a grace period which allows you to polish your papers until **February 20, AoE**.
 | 2024-02-09 | We are delighted to announce that Heiko Koziolek from ABB Corporate Research will give a keynote. More information can be found on the Workshop Program page.
